@@ -1,11 +1,11 @@
 
 
 <h1 align="center">
-    <img alt="Ecoleta" title="#Ecoleta" src="./assets/banner.png" />
+    <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/game_logo.png" />
 </h1>
 
 <h1 align="center">
-   ♻️ <a href="#"> ECOLETA </a>
+   👾 <a href="#"> QUIZ GAME </a>
 </h1>
 
 <h3 align="center">
