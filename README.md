@@ -39,6 +39,7 @@
 ## About
 
 This quiz game was made for an university assignment of the 'Algorithm and Programming logic' subject.
+The IDE Portugol was used to make this game.
 
 ---
 
