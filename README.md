@@ -30,9 +30,9 @@
  <a href="#features">Features</a> •
  <a href="#layout">Layout</a> • 
  <a href="#contributors">Contributors</a> • 
- <a href="#author">Author</a> • 
- <a href="#user-content-license">License</a>
-
+ <a href="#author">Author</a> 
+<!--  <a href="#user-content-license">License</a>
+ -->
 </p>
 
 
