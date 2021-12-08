@@ -82,6 +82,14 @@ To play the game you must have Portugol Studio downloaded in your computer becau
 
 A big thanks to this group that made this product a success :)
 
+Programming:
+<br>Bruna Silvestre do Nascimento
+<br>Camilla Naomy Tsuda
+<br>Mariana Borges Ramos
+
+Art:
+<br>Camilla Naomy Tsuda
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/t09352021"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/t09352021" width="100px;" alt=""/><br /><sub><b>Bruna Silvestre do Nascimento</b></sub></a><br /><a href="https://github.com/t09352021" title="Bruna Silvestre do Nascimento"></a>
