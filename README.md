@@ -124,12 +124,11 @@ A big thanks to this group that made this product a success :)
 
 This project is under the license [MIT](./LICENSE).
 
-Made with love by Thiago Marinho 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/tgmarinho/) -->
+Made with love by  👋🏽 [Get in Touch!]() -->
 <!-- 
 --- -->
 
 ##  Versions of README
 
-[English](./README.md)  |  
-<!-- [Portuguese](./README-pt.md)
- -->
+[English](./README.md)  |  [Portuguese](./README-pt.md)
+
