@@ -123,8 +123,8 @@ A big thanks to this group that made this product a success :)
 This project is under the license [MIT](./LICENSE).
 
 Made with love by Thiago Marinho 👋🏽 [Get in Touch!](Https://www.linkedin.com/in/tgmarinho/) -->
-
----
+<!-- 
+--- -->
 
 ##  Versions of README
 
