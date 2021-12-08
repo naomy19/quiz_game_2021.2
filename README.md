@@ -90,7 +90,7 @@ A big thanks to this group that made this product a success :)
 	<a href="https://www.linkedin.com/in/brunasilvestrenascimento/"><sub><b>LinkedIn</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/naomy19"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/naomy19" width="100px;" alt=""/><br /><sub><b>Camilla Naomy Tsuda</b></sub></a><br /><a href="https://github.com/naomy19" title="Camilla Naomy Tsuda"></a>
         <a href="https://www.linkedin.com/in/camilla-naomy-tsuda-33839b133/"><sub><b>LinkedIn</b></sub></a><br /></td>
-    <td align="center"><a href="#"><img style="border-radius: 50%;" src="hhttps://i.stack.imgur.com/frlIf.png" width="100px;" alt=""/><br /><sub><b>Mariana Borges Ramos</b></sub></a><br /></td>
+    <td align="center"><a href="#"><img style="border-radius: 50%;" src="#" width="100px;" alt=""/><br /><sub><b>Mariana Borges Ramos</b></sub></a><br /></td>
     
   </tr>
 </table>
