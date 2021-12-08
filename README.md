@@ -67,8 +67,6 @@ To play the game you must have Portugol Studio downloaded in your computer becau
 <p align="center">
   <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-1.png" width="300px">
 
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-2.png" width="300px">
-  
   <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-3.png" width="300px">
 </p>
 
@@ -76,8 +74,6 @@ To play the game you must have Portugol Studio downloaded in your computer becau
   <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-4.png" width="300px">
 
   <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-5.png" width="300px">
-  
-  <img alt="quiz_game" title="#quiz_game" src="./assets/readme-img/layout-6.png" width="300px">
 </p>
 
 ---
