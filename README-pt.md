@@ -84,6 +84,14 @@ Esse jogo foi feito para um projeto da faculdade da mat√©ria de "Algoritmos e L√
 
 Muito obrigada a esse grupo que fez desse projeto um sucesso :)
 
+Desenvolvedoras:
+<br>Bruna Silvestre do Nascimento
+<br>Camilla Naomy Tsuda
+<br>Mariana Borges Ramos
+
+Arte:
+<br>Camilla Naomy Tsuda
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/t09352021"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/t09352021" width="100px;" alt=""/><br /><sub><b>Bruna Silvestre do Nascimento</b></sub></a><br /><a href="https://github.com/t09352021" title="Bruna Silvestre do Nascimento"></a>
