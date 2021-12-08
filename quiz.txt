@@ -1,0 +1,41 @@
+Quando poderemos usar plenamente o 5G nas principais metrópoles do mundo | 5G | 4 | O G5 já está sendo utilizado no atualmente | A partir de 2022 | Ainda não existe previsão | Por volta de 2025 
+Como funciona a rede 5G | 5G | 1 | Por meio de ondas de rádio | Através de uma antena parabólica | Por wi-fi | Pelas operadoras telefônicas
+Qual é a velocidade máxima de rede 5G | 5G | 2 | 20Mbps download | 10GBps download | 2Mbps download | 32Kb download 
+O 5G irá auxiliar a conexão e evolução em alguns ambientes específicos, um dos principais é: | 5G | 1 | Ambiente doméstico | Escritórios | Transportes públicos | Escolas e universidades 
+Qual seria o principal gasto após o início do uso do 5G no Brasil | 5G | 3 | A rede em si será consideravelmente cara | Os cabos utilizados na instalação da rede | Troca de equipamentos eletrônicos usados atualmente | Antenas transmissoras 
+Qual foi o primeiro país a lançar o 5G comercialmente? | 5G | 1 | Brasil | EUA | Japão | Coreia do Sul 
+Qual é o valor estimado para os investimentos iniciais das instalações do 5G em São Paulo? | 5G | 3 | 11 bilhões | 8 bilhões | 4 bilhões | 57 milhões 
+Qual é o prazo final previsto para a implantação do 5G no Brasil? | 5G | 2 | Outubro de 2034 | Julho de 2029 | Janeiro de 2024 | Setembro de 2024 | Agosto de 2025 
+Qual seria o papel do projeto Conecta SP na instalação do 5G no estado de SP? | 5G | 1 | Padronizar as regras de instalação das antenas | Ajudar a financiar instalações de antenas | Ser o órgão administrativo do 5G cidade de São Paulo | Isentar grandes empresas de pagar impostos relacionados ao 5G 
+No dia 05 do mês de novembro, ocorreu o leilão do 5G da ANATEL. O valor total arrecadado foi: | 5G | 4 | 103 bilhões | 90,65 bilhões | 976 milhões | 46,79 bilhões 
+Quando foi desenvolvida a linguagem de programação Java? | Linguagem de Programação | 1 | 1889 | 1970 | Anos 90 | Anos 70
+A linguagem Java, foi criada pela Oracle em 1991. Ela foi criada originalmente com a ideia de ser utilizada em: | Linguagem de Programação | 1 | Televisões | Computadores | Carros |Celulares 
+Considerada uma das mais fáceis das linguagens, por conta de seu código altamente legível, e versatilidade: | Linguagem de Programação | 3 | C# | JavaScript | Python | Todas as alternativas 
+O que é linguagem de programação? | Linguagem de Programação | 2 | É a forma que os programadores se comunicam | É por onde o hardware e o programador se comunicam | É a linguagem interna de cada máquina | Nenhuma das alternativas anteriores 
+A Swift é utilizada em aparelhos de qual marca? | Linguagem de Programação | 4 | Android | Windows | Firefox | IOS e Apple 
+O Paradigma Procedural ou Imperativo: | Linguagem de Programação | 3 | Permite visualizar a estrutura e execução do programa | Se baseia em objetos, que compõem o software | Define softwares como sequência de comandos a serem executados | É o paradigma de programação mais popular 
+Alguns dos principais sistemas que utilizam SQL são: | Linguagem de Programação | 1 | Oracle, PostgreSQL, Firebird, MySQL | Oracle, PHP, Firebird, MySQL | Python, PostgreSQL, Firebird, MySQL | Oracle, PostgreSQL, Firebird, Java
+Perl é uma linguagem de programação de alto nível. É normalmente utilizada para: | Linguagem de Programação |4 | Interface de programação de aplicativos | Desenvolver sistemas e softwares de base | Criação de sites e aplicações | Jogos, aplicações web, processamento de textos e programação de redes 
+R é uma linguagem de programação destinada à computação estatística. Possui suporte para sistemas operacionais: | Linguagem de Programação | 1 | Linux, Windows e Mac | Linux, Windows e Samsung | Google, Windows e Mac | Chrome
+Qual das opções é usada a pseudolinguagem com comandos em português: | Linguagem de Programação |1 | Portugol | Python | Google Go | Visual Basic
+Qual das alternativas não é um tipo de cloud computing|Cloud Computing| 1 | on-premises| híbrida | pública | privada
+Qual das alternativas são modelos de serviços de cloud|Cloud Computing| 3 | PaaS, IaaS, SaaN | NaaS, IaaS, SaaN | IaaS, PaaS, SaaS| NaaS, VaaS, SaaS
+O "Office 365" é um serviço de cloud:|Cloud Computing| 2 | PaaS| SaaS| IaaS | nenhuma das alternativas
+O "Gmail" é um serviço de cloud:     |Cloud Computing| 3 | IaaS| PaaS| SaaS | nenhuma das alternativas
+Qual tipo de cloud computing é mais segura|Cloud Computing| 1 | nuvem pública |nuvem híbrida | nuvem privada| nenhuma das alternativas
+Qual tipo de cloud computing é mais flexível|Cloud Computing| 3 | nuvem pública |nuvem privada | nuvem híbrida| nenhuma das alternativas
+Qual das alternativas não é um exemplo de plataforma de serviços Cloud?|Cloud Computing| 4 | Amazon Web Services (AWS)| Microsoft Azure | Huawei Cloud | Datacenter local 
+O termo "IaaS" em cloud computing significa:|Cloud Computing| 2 | instalação como serviço| infraestrutura como serviço| investimento como serviço | inspiração como serviço
+O termo "PaaS" em cloud computing significa:|Cloud Computing| 3 | pensamento como serviço| pensamento como solução | plataforma como serviço| plataforma como solução
+O termo "SaaS" em cloud computing significa:|Cloud Computing| 3 | sonhos como serviço    | seriedade como solução  | software como serviço |  soluções sem preços
+O que o 'i' representa nos produtos da Apple?|Curiosidades| 2 |instalar, instruir, informar, instigar, investir |internet, indivíduo, instruir, informar, inspirar|internet, indivíduo, instruir, informar, investir|instalar, indivíduo, instruir, informar, inspirar
+“Interface Manager” foi nome de batismo de qual sistema operacional?|Curiosidades| 3 | MAC OS | Linux | Windows| Android
+Qual empresa criou MS-DOS?|Curiosidades| 4 | Windows | Amazon | Apple | Seattle Computer Products
+Qual das seguintes alternativas foi o primeiro aplicativo criado pela Microsoft?|Curiosidades| 1 | Excel| Word | Power Point | Access
+Qual o nome da inteligencia artificial da IBM ?|Curiosidades| 3 | Bia | Jordan | Watson | Sherlock Holmes
+A inteligência artificial "Watson" faz uso de dados:|Curiosidades| 3 | estruturados | semi-estruturados | não-estruturados| nenhuma das alternativas
+O que acontece se você buscar o nome do jogador “Pelé” no Google?|Curiosidades| 1 | easter egg nos resultados da busca |Animação da camiseta de futebol brasileira | Sons de torcida | a tela pisca
+A equipe da Amazon cogitou chamar o Kindle originalmente de:|Curiosidades| 3 | Alfred | Cosmos | Fiona | Sky reader 
+O Sistema Android pertence a que empresa?|Curiosidades| 2 | Apple | Google | Huawei | Samsung
+A palavra “Huawei” significa:|Curiosidades| 2 | honra coreana | conquista chinesa| vitória japonesa | tigre branco
+Duplicado |Curiosidades| 2 | honra coreana | conquista chinesa| vitória japonesa | tigre branco
