@@ -17,7 +17,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/badge/last%20commit-december-informational">
   </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet">
+<!--    <img alt="License" src="https://img.shields.io/badge/license-MIT-blueviolet"> -->
 </p>
 
 
