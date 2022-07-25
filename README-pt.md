@@ -30,7 +30,7 @@
  <a href="#funcionalidades">Funcionalidades</a> •
  <a href="#layout">Layout</a> • 
  <a href="#contribuidores">Contribuidores</a> • 
- <a href="#autora">Autora</a> • 
+ <a href="#autora">Autora</a>
 <!--  <a href="#user-content-licença">Licença</a>
  -->
 </p>
